@@ -103,7 +103,7 @@ namespace FakeStore.Models
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-          
+            MessageBox.Show("Thank you for your purchase!");
         }
     }
 
